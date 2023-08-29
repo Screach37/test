@@ -1,5 +1,0 @@
-{{#user}}
-Name: Akshat
-Skills: DevOps, AWS/Azure, HTML, CSS, JS
-Email: workakshat22@gmail.com
-{{/user}}
